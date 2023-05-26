@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IdealWeight</string>
+
+    <string name="gender">Пол</string>
+    <string name="height">Рост, см</string>
+    <string name="weight">Вес, кг</string>
+    <string name="result_text_sample">Результат: Нормальный</string>
+    <string name="calculate_button">Рассчитать</string>
+    <string name="calculation_mode">Режим калькулятора</string>
+    <string name="bmi_mode">По ИМТ</string>
+    <string name="height_mode">По росту</string>
+</resources>
